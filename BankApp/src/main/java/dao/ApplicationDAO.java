@@ -139,7 +139,7 @@ public class ApplicationDAO implements DAOInterface<ApplicationModel, Integer, S
 		Connection connection = ConnectionManager.getConnection();
 		try {
 			//Step 1
-			PreparedStatement statement = connection.prepareStatement("select * from applications where status is null");
+			PreparedStatement statement = connection.prepareStatement("select * from applications");
 			
 			//Step 2
 			//statement.setNull(1, 1);
