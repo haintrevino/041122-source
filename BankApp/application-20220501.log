@@ -1,0 +1,5 @@
+2022-05-01 23:11:10.468 [main] DEBUG com.revature.BankApp.App - We've just greeted the user!
+2022-05-01 23:11:10.473 [main] INFO  com.revature.BankApp.App - We've just greeted the user!
+2022-05-01 23:11:10.473 [main] WARN  com.revature.BankApp.App - We've just greeted the user!
+2022-05-01 23:11:10.473 [main] ERROR com.revature.BankApp.App - We've just greeted the user!
+2022-05-01 23:11:10.473 [main] FATAL com.revature.BankApp.App - We've just greeted the user!
